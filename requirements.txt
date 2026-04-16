@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+elevenlabs
+moviepy
+requests
+pexels-api
+python-dotenv
